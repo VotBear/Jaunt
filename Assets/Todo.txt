@@ -1,0 +1,3 @@
+New enemies
+
+Fix bounce for drifters - use reflect and normal and physics layers
