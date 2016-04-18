@@ -1,8 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\MDP AI Simulation\Assets\_Scripts\MapRenderer.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\Enemy.cs">
     <Files>
-      <File FileName="..\MDP AI Simulation\Assets\_Scripts\MapRenderer.cs" Line="20" Column="5" />
+      <File FileName="Assets\_Scripts\Logic\HealthManager.cs" Line="25" Column="19" />
+      <File FileName="Assets\_Scripts\AI\AI_Camera.cs" Line="25" Column="55" />
+      <File FileName="Assets\_Scripts\Colliders &amp; Destroyers\EnemyScore.cs" Line="5" Column="2" />
+      <File FileName="Assets\_Scripts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Entity.cs" Line="19" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
