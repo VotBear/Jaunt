@@ -62,7 +62,6 @@
      <Compile Include="Assets\_Scripts\Colliders &amp; Destroyers\EnemyScore.cs" />
      <Compile Include="Assets\_Scripts\Colliders &amp; Destroyers\JauntCollider.cs" />
      <Compile Include="Assets\_Scripts\Enemy.cs" />
-     <Compile Include="Assets\_Scripts\Entity.cs" />
      <Compile Include="Assets\_Scripts\Logic\EnemyController.cs" />
      <Compile Include="Assets\_Scripts\Logic\EnemySpawner.cs" />
      <Compile Include="Assets\_Scripts\Logic\GameController.cs" />

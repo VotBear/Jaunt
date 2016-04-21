@@ -1,10 +1,13 @@
 fileFormatVersion: 2
 guid: b15ada813bd0ce941a6d1bea8cedf292
-timeCreated: 1438420776
+timeCreated: 1461081875
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - hitAnimation: {fileID: 141844, guid: 8fe2e32d16190d5468bb0c37a3efeb3d, type: 2}
+  - deathAnimation: {fileID: 176194, guid: 27c87857dcbdb814ca844ae4bd18520c, type: 2}
+  - parentObject: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

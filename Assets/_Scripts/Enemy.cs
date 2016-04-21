@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Enemy : Entity {
+public abstract class Enemy {
 
 	// Use this for initialization
 	void Start () {
